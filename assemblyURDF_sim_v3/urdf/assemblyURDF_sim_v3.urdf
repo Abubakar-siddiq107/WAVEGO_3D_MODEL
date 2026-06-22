@@ -138,7 +138,7 @@
     </collision>
   </link>
   <joint
-    name="leg_2_joint"
+    name="leg_1_joint"
     type="continuous">
     <origin
       xyz="0.015 -0.013 -0.00280397218834483"
@@ -562,7 +562,7 @@
     </collision>
   </link>
   <joint
-    name="servo_4_joints"
+    name="servo_4_joint"
     type="continuous">
     <origin
       xyz="0.0492951218109149 0.0284532934482133 0.0239999999999998"
